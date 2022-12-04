@@ -8,3 +8,5 @@ git commit : xác nhận và lưu trữ các file đã thay đổi
 git commit -m "message commit"
 
 phím tắt terminal ctrl + `
+
+git log : xem lại cái lịch sử commit
