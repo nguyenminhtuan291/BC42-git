@@ -22,3 +22,8 @@ git status : xem lại trạng thái hiện tại của thư mục làm việc, 
 git push đẩy tất cả commit lên trên remote responsitory
 
 git clone sao chép responsitory về máy tính 
+
+git checkout: chuyển sang một branch khác 
+git checkout branch-name: chuyển branch
+git checkout -b branch-name : tạo branch
+
