@@ -1,3 +1,7 @@
+cấu hình git cho user (chỉ cần làm 1 lần duy nhât)
+git config --global user.name "your name"
+gi config --global user.email "Your email"
+
 git init :khởi tạo git cho môt project (chỉ cần dùng 1 lần duy nhất)
 
 git add: sắp xếp cái file đã bị thay đổi, thêm mới, hoặc xóa so với lần commit trước đó, để chuẩn bị cho lần commit tiếp theo 
@@ -9,4 +13,12 @@ git commit -m "message commit"
 
 phím tắt terminal ctrl + `
 
+git push đầy tất cả commit lên trên remote responsitory
+
 git log : xem lại cái lịch sử commit
+
+git status : xem lại trạng thái hiện tại của thư mục làm việc, nó sẽ hiển thị những file thay đổi so với lần commit trước đó đồng thời hiển thị trạng thái của các file đó , như là đã được xác nhận commit xong chưa 
+
+git push đẩy tất cả commit lên trên remote responsitory
+
+git clone sao chép responsitory về máy tính 
